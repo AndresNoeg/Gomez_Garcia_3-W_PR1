@@ -20,7 +20,7 @@ print(y)
 
 print (" ")
 
-![image](https://github.com/user-attachments/assets/03013167-e073-40c3-9689-5bddc9a76c0d)
+![image](https://github.com/user-attachments/assets/64fbdf66-117b-4a68-8682-03661acdca94)
 
 
 
