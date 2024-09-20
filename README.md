@@ -2,7 +2,7 @@
 
 print (" ")
 
-print ("Gomez Garcia Andres Noe ")
+print ("Gomez Garcia Andres Noe: Practica 1 ")
 
 print (" ")
 
@@ -20,6 +20,7 @@ print(y)
 
 print (" ")
 
+![image](https://github.com/user-attachments/assets/03013167-e073-40c3-9689-5bddc9a76c0d)
 
-![image](https://github.com/user-attachments/assets/29856660-2a0e-4f0b-a4ad-075b02fe6ea2)
+
 
